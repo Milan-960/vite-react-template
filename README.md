@@ -1,7 +1,5 @@
-# vite-react-template
-
 <h1 align="center">
-  Vite Template React
+  Vite React Template
 </h1>
 
 <p align="center">
